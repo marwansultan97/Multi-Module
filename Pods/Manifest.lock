@@ -1,0 +1,20 @@
+PODS:
+  - JGProgressHUD (2.2)
+  - TagListView (1.4.1)
+
+DEPENDENCIES:
+  - JGProgressHUD
+  - TagListView
+
+SPEC REPOS:
+  trunk:
+    - JGProgressHUD
+    - TagListView
+
+SPEC CHECKSUMS:
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  TagListView: a1c236d17960a0cf64156725a76ce6d73ebce2be
+
+PODFILE CHECKSUM: 666af79bc08d647797099e232685c56e3be0146a
+
+COCOAPODS: 1.11.3
